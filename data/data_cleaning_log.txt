@@ -1,0 +1,9 @@
+===== Nykaa 数据清洗日志 =====
+- 缺失值检测: 共 0 个缺失值
+- 重复值检测: 0 条重复行
+- 负值检测: 无非预期负值(ROI允许为负)
+- 逻辑一致性: Clicks>Impressions=0; Leads>Clicks=0; Conversions>Leads=0
+- Campaign_ID重复: 0 条
+- 无效日期: 0 条
+- 衍生指标: 新增9个计算字段(CTR/CPC/CPA等)
+- 最终清洗后数据量: 55555 行, 26 列
