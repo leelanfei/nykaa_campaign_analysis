@@ -73,7 +73,6 @@ nykaa_campaign_analysis/
 │       ├── t2_channel_exploded.csv     # 渠道拆分表（约 29 MB）
 │       ├── t3_monthly_trend.csv        # 月度趋势
 │       └── t4_roi_segments.csv         # ROI 分级分布
-├── .gitignore
 └── README.md
 ```
 
